@@ -17,7 +17,7 @@ However, as part of additional request following analysis was also included:
 
 ## Election Audit Results -
 
-As part of the analysis using automated script run on a CSV file, it was identified that there was a total voter of 369,711 cated in this election across 3 counties: Arapahoe, Denver and Jefferson. **Denver was the largest county in terms of vote turnout.**
+As part of the analysis using automated script run on a CSV file, it was identified that a total of 369,711 votes were casted in this election across 3 counties: Arapahoe, Denver and Jefferson. **Denver was the largest county in terms of vote turnout.**
 
 On the candidate list were 3 candidates; Charles Casper Stockham, Raymon Anthony Doane and Diana DeGette. 
 **Diana DeGette won the elections with clear majority holding 73.8% of the overall votes casted in her favor.**
@@ -28,7 +28,7 @@ On the candidate list were 3 candidates; Charles Casper Stockham, Raymon Anthony
 
 
 
-The above summary was created using a Python script that generated the same output in Visual Code Auditor. Sharing below to offer validating of above output.
+This summary was created using a Python script that generated the same output in Visual Code Auditor, shown below to offer validation of above output:
 
 ![image](https://user-images.githubusercontent.com/102870991/166193284-7b9a5eef-cb10-4b50-ab08-a1c4bfd58208.png)
 
@@ -36,7 +36,7 @@ The above summary was created using a Python script that generated the same outp
 
 ## Election Audit Summary:
 
-The python script renders analysis with minimal time-investment or human intervention making the audit report free of manual error. 
+The python script renders analysis with minimal time-investment or human intervention making the audit report free of manual errors. 
 It can be easily deployed for other congressional districts as well as senatorial districts and local elections with small modfications:
 
 The script is capable of reading any number of rows with mutliple candidates without requiring any alterations. 
